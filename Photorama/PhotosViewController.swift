@@ -9,9 +9,10 @@
 import UIKit
 
 class PhotosViewController: UIViewController{
-    @IBOutlet var imageView: UIImageView!
-    var store: PhotoStore!
     
+    @IBOutlet var collectionView: UICollectionView!
+    var store: PhotoStore!
+    let photoDataSource = PhotoDataSource()
     
     override func viewDidLoad() {
         super.viewDidLoad()
