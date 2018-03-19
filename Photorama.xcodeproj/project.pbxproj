@@ -16,6 +16,7 @@
 		F5C3D6C420574F4B00515BA5 /* PhotoStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5C3D6C320574F4B00515BA5 /* PhotoStore.swift */; };
 		F5C3D6C62057565400515BA5 /* Photo.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5C3D6C52057565400515BA5 /* Photo.swift */; };
 		F5FFEFD620607E3C000B6723 /* PhotoDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5FFEFD520607E3C000B6723 /* PhotoDataSource.swift */; };
+		F5FFEFD820608547000B6723 /* PhotoCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5FFEFD720608547000B6723 /* PhotoCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		F5C3D6C320574F4B00515BA5 /* PhotoStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoStore.swift; sourceTree = "<group>"; };
 		F5C3D6C52057565400515BA5 /* Photo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Photo.swift; sourceTree = "<group>"; };
 		F5FFEFD520607E3C000B6723 /* PhotoDataSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoDataSource.swift; sourceTree = "<group>"; };
+		F5FFEFD720608547000B6723 /* PhotoCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				F5C3D6B4205741D300515BA5 /* Assets.xcassets */,
 				F5C3D6B6205741D300515BA5 /* LaunchScreen.storyboard */,
 				F5C3D6B9205741D300515BA5 /* Info.plist */,
+				F5FFEFD720608547000B6723 /* PhotoCollectionViewCell.swift */,
 			);
 			path = Photorama;
 			sourceTree = "<group>";
@@ -152,6 +155,7 @@
 				F5C3D6C02057430A00515BA5 /* PhotosViewController.swift in Sources */,
 				F5C3D6C420574F4B00515BA5 /* PhotoStore.swift in Sources */,
 				F5FFEFD620607E3C000B6723 /* PhotoDataSource.swift in Sources */,
+				F5FFEFD820608547000B6723 /* PhotoCollectionViewCell.swift in Sources */,
 				F5C3D6AE205741D300515BA5 /* AppDelegate.swift in Sources */,
 				F5C3D6C62057565400515BA5 /* Photo.swift in Sources */,
 			);
