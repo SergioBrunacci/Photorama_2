@@ -45,6 +45,9 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <navigationItem key="navigationItem" title="Photorama" id="R8R-ze-Ye9"/>
+                    <connections>
+                        <outlet property="collectionView" destination="9O7-8g-NEa" id="Vg9-j2-rga"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
